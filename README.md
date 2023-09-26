@@ -6,7 +6,7 @@ Fake server : https://fakestoreapi.com/products
 
 # Deployment
 
-`<link>`: [Shopping Villa](https://shopping-villa.netlify.app/)
+`<link>`: [Shopping Villa](https://spiffy-mandazi-50b30d.netlify.app/)
 
 # Features :-
 
